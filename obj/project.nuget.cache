@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EsocKv29jvdzkgS0SD06Y6cfX4zBBCMwh4uj+kGOW6f3mzpAZPVto+RES61P/dx7YXLOQsAWaWJwp6gKfMdLWw==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\GitHub\\IMLab2\\IMLab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TIMDIM\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
